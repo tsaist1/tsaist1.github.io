@@ -1,0 +1,12 @@
+title: ShengTse Tsai blog 
+email: shengtsetsai@example.com
+description: "crazy rants and tidbits"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tsaist1.github.io"
+
+# twitter_username: yourusername
+github_username:  tsaist1
+
+theme: minima
+plugins:
+  - jekyll-feed
