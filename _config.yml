@@ -7,6 +7,6 @@ url: "https://tsaist1.github.io"
 # twitter_username: yourusername
 github_username:  tsaist1
 
-theme: hyde
+theme: jekyll-theme-hyde
 plugins:
   - jekyll-feed
