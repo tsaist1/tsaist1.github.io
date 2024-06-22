@@ -1,27 +1,26 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      pygments
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            ST
-email:            shengtsetsai@gmail.com
-description:      ''
-baseurl:          /
+title: ST
+email: shengtsetsai@gmail.com
+description: ""
+baseurl: /
 
 author:
-  name:           'ShengTse Tsai'
-  url:            tsaist1.github.io
+  name: "ShengTse Tsai"
+  url: tsaist1.github.io
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
+version: 2.1.0
 
 github:
   repo:
 
 plugins: [jekyll-paginate]
-
