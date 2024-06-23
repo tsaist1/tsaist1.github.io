@@ -1,5 +1,2 @@
 # Under Construction
-
-## Theme
-
-- https://github.com/poole/hyde
+Theme derived from https://github.com/poole/hyde
