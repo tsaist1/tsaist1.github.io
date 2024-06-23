@@ -7,20 +7,18 @@ permalink: pretty
 
 # Setup
 title: ST
-email: shengtsetsai@gmail.com
+tagline: ""
 description: ""
+url: https://tsaist1.github.io
 baseurl: /
 
 author:
   name: "ShengTse Tsai"
-  url: tsaist1.github.io
+  url:
 
 paginate: 5
 
-# Custom vars
-version: 2.1.0
-
 github:
-  repo:
+  repo: https://github.com/tsaist1/tsaist1.github.io
 
 plugins: [jekyll-paginate]
