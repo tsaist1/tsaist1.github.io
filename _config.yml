@@ -9,17 +9,16 @@ permalink: pretty
 title: ST
 tagline: ""
 description: ""
-url: https://tsaist1.github.io
+url: https://tsais7.github.io
 baseurl: /
 
 author:
   name: "ShengTse Tsai"
-  url:
+  url: https://tsais7.github.io
 
 paginate: 5
 
-github:
-  repo: https://github.com/tsaist1/tsaist1.github.io
+github: https://github.com/tsais7
 
 plugins: [jekyll-paginate]
 
