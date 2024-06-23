@@ -22,3 +22,6 @@ github:
   repo: https://github.com/tsaist1/tsaist1.github.io
 
 plugins: [jekyll-paginate]
+
+include:
+  - public

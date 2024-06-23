@@ -27,8 +27,8 @@
       {% endif %} {% endif %} {% endfor %}
 
       <a
-        class="sidebar-nav-item"
-        href="https://tsaist1.github.io/public/resume.html"
+        class="sidebar-nav-item{% if page.url == site.baseurl %}/resume.html{% endif %}"
+        href="{{ site.baseurl }}/resume.html"
       >
         Resumé
       </a>
